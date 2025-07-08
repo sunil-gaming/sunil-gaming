@@ -9,7 +9,7 @@ Welcome to my digital zone! I create bots, build websites, edit videos, and run 
 
 - 🌐 Website: [sunilgaming.pages.dev](https://sunilgaming.pages.dev)
 - 💬 Discord Server: [discord.gg/pc3hazBxBB](https://discord.gg/pc3hazBxBB)
-- 🧑‍💻 Discord Profile: `sunilgaming_op`
+- 🧑‍💻 Discord Profile: `realsunil`
 - 📧 Email: hustlewithsunil@gmail.com
 - 📷 YouTube: [@sunilgaming_op](https://youtube.com/@sunilgaming_op)
 - 📷 YouTube: [@Botsync](https://youtube.com/@BotSync)
