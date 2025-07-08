@@ -9,11 +9,17 @@ Welcome to my digital zone! I create bots, build websites, edit videos, and run 
 
 - 🌐 Website: [sunilgaming.pages.dev](https://sunilgaming.pages.dev)
 - 💬 Discord Server: [discord.gg/pc3hazBxBB](https://discord.gg/pc3hazBxBB)
-- 🧑‍💻 Discord Profile: `realsunil`
+- 🧑‍💻 Discord Profile: `sunilgaming_op`
 - 📧 Email: hustlewithsunil@gmail.com
-- 📷 YouTube: [@sunilgaming](https://youtube.com/@sunilgaming_op)
+- 📷 YouTube: [@sunilgaming_op](https://youtube.com/@sunilgaming_op)
 - 📷 YouTube: [@Botsync](https://youtube.com/@BotSync)
 - 🛍️ Gumroad Store: [sunilgaming.gumroad.com](https://sunilgaming.gumroad.com)
+
+---
+
+### 👤 Live Discord Profile
+
+[![Discord Status](https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&animated=true&hideDiscriminators=false&borderRadius=10px)](https://discord.com/users/1148093915493306452)
 
 ---
 
